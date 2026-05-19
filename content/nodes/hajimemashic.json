@@ -1,0 +1,52 @@
+{
+  "id": "hajimemashic",
+  "date": "2025.6.29",
+  "eraTitle": "はじめまして",
+  "eraSubtitle": "TITLE",
+  "coverImage": "/images/nodes/hajimemashic/cover.jpg",
+  "description": "はじめまして——初次见面。\n\n这是我们在日本的正式出道。用一种全新的方式，向全新的朋友介绍自己。\n\n跨过语言的界限，跨过海洋的距离，音乐成为我们之间最美的桥梁。\n\n在音乐森林里，每一棵树都记录着不同的旋律。这一次，我们用日语唱出了和韩语一样真挚的情感。\n\n'初次见面，请多关照'——这句话里装着所有的期待和一点点的不安。但更重要的是，它意味着一段新故事的开始。",
+  "photos": [
+    {
+      "src": "/images/nodes/hajimemashic/photo-01.jpg",
+      "alt": "日本出道概念照",
+      "width": 800,
+      "height": 600,
+      "caption": "新的相遇",
+      "rotation": -1.5
+    },
+    {
+      "src": "/images/nodes/hajimemashic/photo-02.jpg",
+      "alt": "日本Showcase",
+      "width": 600,
+      "height": 800,
+      "caption": "第一次在日本粉丝面前表演",
+      "rotation": 2
+    },
+    {
+      "src": "/images/nodes/hajimemashic/photo-03.jpg",
+      "alt": "东京塔",
+      "width": 800,
+      "height": 600,
+      "caption": "东京夜晚的约定",
+      "rotation": -0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "globe",
+      "text": "第一次用日语完整地说出自我介绍——虽然练习了很多遍还是紧张",
+      "date": "2025.6.20"
+    },
+    {
+      "icon": "heart",
+      "text": "日本粉丝用韩语写了'欢迎'横幅——那一刻我们都不知所措",
+      "date": "2025.6.29"
+    },
+    {
+      "icon": "sakura",
+      "text": "在东京塔下约定：一定要再回来",
+      "date": "2025.7.1"
+    }
+  ],
+  "colorAccent": "#A8C8E8"
+}

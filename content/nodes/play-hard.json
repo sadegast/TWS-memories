@@ -1,0 +1,52 @@
+{
+  "id": "play-hard",
+  "date": "2025.10.13",
+  "eraTitle": "Play Hard",
+  "eraSubtitle": "Overdrive",
+  "coverImage": "/images/nodes/play-hard/cover.jpg",
+  "description": "全力以赴地玩，竭尽全力地奔跑。\n\n《Overdrive》是青春最狂野的宣言。不是 reckless，而是 bold。不是 careless，而是 fearless。\n\n我们想用这首歌告诉大家：青春不是小心翼翼的温室，而是尽情挥洒汗水的操场。\n\n在发光的湖泊边，我们喊着'Overdrive'的口号冲向未知。不是不怕，而是比起害怕，更想勇敢。\n\n这一年，我们学会了：尽全力去爱、去唱、去笑、去哭——每一刻都是发光的存在。",
+  "photos": [
+    {
+      "src": "/images/nodes/play-hard/photo-01.jpg",
+      "alt": "Overdrive MV场景",
+      "width": 800,
+      "height": 600,
+      "caption": "速度与青春",
+      "rotation": 1.5
+    },
+    {
+      "src": "/images/nodes/play-hard/photo-02.jpg",
+      "alt": "舞台表演",
+      "width": 600,
+      "height": 800,
+      "caption": "最炽热的舞台",
+      "rotation": -1
+    },
+    {
+      "src": "/images/nodes/play-hard/photo-03.jpg",
+      "alt": "成员夜跑",
+      "width": 800,
+      "height": 600,
+      "caption": "半夜的汉江边",
+      "rotation": 0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "lightning",
+      "text": "SHINYU说这是他跳过最累的编舞——但也是最痛快的",
+      "date": "2025.10.10"
+    },
+    {
+      "icon": "fire",
+      "text": "第一次尝试摇滚风格，我们之前谁也没想过能做到",
+      "date": "2025.10.13"
+    },
+    {
+      "icon": "star",
+      "text": "在音乐节目中看到粉丝们一起喊'Overdrive'——全身起了鸡皮疙瘩",
+      "date": "2025.10.18"
+    }
+  ],
+  "colorAccent": "#E8D5F5"
+}

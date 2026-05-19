@@ -1,0 +1,52 @@
+{
+  "id": "try-with-us",
+  "date": "2025.4.21",
+  "eraTitle": "Try With Us",
+  "eraSubtitle": "Countdown!",
+  "coverImage": "/images/nodes/try-with-us/cover.jpg",
+  "description": "第一次学会系领带。第一次穿上正装。第一次站在毕业礼堂的门口。\n\n《Countdown!》是青春里最勇敢的倒数。不是等时间过去，而是向着未来奔跑。\n\n这次回归，我们想说的是：不要害怕第一次。即使笨手笨脚，即使不知道答案，也请和我们一起尝试。\n\n没关系，因为大家都是第一次长大。我们陪你一起——倒数、跳跃、冲向那个闪闪发光的明天。",
+  "photos": [
+    {
+      "src": "/images/nodes/try-with-us/photo-01.jpg",
+      "alt": "毕业礼堂概念照",
+      "width": 800,
+      "height": 600,
+      "caption": "毕业礼堂的约定",
+      "rotation": 1
+    },
+    {
+      "src": "/images/nodes/try-with-us/photo-02.jpg",
+      "alt": "打歌舞台",
+      "width": 600,
+      "height": 800,
+      "caption": "Countdown的第一个舞台",
+      "rotation": -2
+    },
+    {
+      "src": "/images/nodes/try-with-us/photo-03.jpg",
+      "alt": "练习室",
+      "width": 800,
+      "height": 600,
+      "caption": "练习室里最认真的时刻",
+      "rotation": 0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "graduation",
+      "text": "KYUNGMIN第一次学会系领带——花了整整30分钟",
+      "date": "2025.4.15"
+    },
+    {
+      "icon": "heart",
+      "text": "粉丝说'和TWS一起长大了'——这句话让我们全部破防",
+      "date": "2025.4.21"
+    },
+    {
+      "icon": "rocket",
+      "text": "第一次尝试全新音乐风格，紧张但充满期待",
+      "date": "2025.4.21"
+    }
+  ],
+  "colorAccent": "#FFF5D6"
+}

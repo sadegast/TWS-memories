@@ -1,0 +1,202 @@
+{
+  "viewBox": { "width": 3200, "height": 2000 },
+  "regions": [
+    {
+      "id": "night-station",
+      "name": "Night Station",
+      "koreanName": "밤의 정거장",
+      "pathData": "M 30 600 Q 130 500, 430 550 Q 480 650, 530 800 Q 430 950, 230 900 Q 30 850, 30 600 Z",
+      "fillColor": "#D4E5F7",
+      "centerPoint": { "x": 280, "y": 720 },
+      "ambientAnimation": "light"
+    },
+    {
+      "id": "summer-beach",
+      "name": "Summer Beach",
+      "koreanName": "여름 해변",
+      "pathData": "M 590 240 Q 740 190, 990 270 Q 1040 390, 940 590 Q 840 640, 640 670 Q 540 590, 590 440 Z",
+      "fillColor": "#FADADD",
+      "centerPoint": { "x": 820, "y": 420 },
+      "ambientAnimation": "water"
+    },
+    {
+      "id": "blue-flower-field",
+      "name": "Blue Flower Field",
+      "koreanName": "파란 꽃밭",
+      "pathData": "M 1060 550 Q 1210 500, 1410 570 Q 1510 650, 1460 800 Q 1310 850, 1110 830 Q 1010 750, 1060 550 Z",
+      "fillColor": "#B4D8F0",
+      "centerPoint": { "x": 1260, "y": 680 },
+      "ambientAnimation": "petals"
+    },
+    {
+      "id": "graduation-hall",
+      "name": "Graduation Hall",
+      "koreanName": "졸업식장",
+      "pathData": "M 1480 210 Q 1680 190, 1830 260 Q 1880 410, 1780 510 Q 1630 560, 1480 510 Q 1430 410, 1480 210 Z",
+      "fillColor": "#FFF5D6",
+      "centerPoint": { "x": 1680, "y": 380 },
+      "ambientAnimation": "petals"
+    },
+    {
+      "id": "music-forest",
+      "name": "Music Forest",
+      "koreanName": "음악의 숲",
+      "pathData": "M 1760 440 Q 2060 420, 2260 490 Q 2360 620, 2310 760 Q 2160 840, 1910 820 Q 1710 790, 1760 590 Z",
+      "fillColor": "#D5F0E0",
+      "centerPoint": { "x": 2060, "y": 630 },
+      "ambientAnimation": "grass"
+    },
+    {
+      "id": "glowing-lake",
+      "name": "Glowing Lake",
+      "koreanName": "빛나는 호수",
+      "pathData": "M 2170 230 Q 2370 200, 2570 260 Q 2670 360, 2570 460 Q 2420 500, 2220 460 Q 2120 380, 2170 230 Z",
+      "fillColor": "#A8C8E8",
+      "centerPoint": { "x": 2420, "y": 360 },
+      "ambientAnimation": "water"
+    },
+    {
+      "id": "memory-post-office",
+      "name": "Memory Post Office",
+      "koreanName": "추억 우체국",
+      "pathData": "M 950 1230 Q 1100 1180, 1300 1230 Q 1350 1330, 1300 1450 Q 1100 1510, 900 1480 Q 850 1380, 950 1230 Z",
+      "fillColor": "#FFF5D6",
+      "centerPoint": { "x": 1100, "y": 1350 },
+      "ambientAnimation": "clouds",
+      "linkTo": "/post-office"
+    },
+    {
+      "id": "time-train",
+      "name": "Time Train",
+      "koreanName": "시간 열차",
+      "pathData": "M 1450 1140 Q 1650 1120, 1850 1190 Q 1950 1290, 1900 1440 Q 1750 1490, 1550 1460 Q 1400 1390, 1450 1140 Z",
+      "fillColor": "#D4E5F7",
+      "centerPoint": { "x": 1700, "y": 1300 },
+      "ambientAnimation": "clouds",
+      "linkTo": "/time-train"
+    },
+    {
+      "id": "twilight-bridge",
+      "name": "Twilight Bridge",
+      "koreanName": "황혼의 다리",
+      "pathData": "M 1400 1460 Q 1600 1430, 1800 1480 Q 1850 1560, 1750 1660 Q 1550 1680, 1350 1640 Q 1300 1560, 1400 1460 Z",
+      "fillColor": "#FADADD",
+      "centerPoint": { "x": 1600, "y": 1550 },
+      "ambientAnimation": "light",
+      "linkTo": "/twilight-bridge"
+    },
+    {
+      "id": "first-snow-street",
+      "name": "First Snow Street",
+      "koreanName": "첫눈 거리",
+      "pathData": "M 2770 570 Q 2970 550, 3120 600 Q 3170 700, 3070 820 Q 2870 870, 2670 820 Q 2570 720, 2770 570 Z",
+      "fillColor": "#F0F4FA",
+      "centerPoint": { "x": 2920, "y": 700 },
+      "ambientAnimation": "petals"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sparkling-blue",
+      "date": "2024.1.22",
+      "eraTitle": "Sparkling Blue",
+      "eraSubtitle": "Plot Twist",
+      "position": { "x": 280, "y": 750 },
+      "connectedTo": ["summer-beat"],
+      "regionId": "night-station",
+      "iconType": "star"
+    },
+    {
+      "id": "summer-beat",
+      "date": "2024.6.24",
+      "eraTitle": "Summer Beat",
+      "eraSubtitle": "If I'm S, Can You Be My N?",
+      "position": { "x": 790, "y": 410 },
+      "connectedTo": ["sparkling-blue", "last-bell"],
+      "regionId": "summer-beach",
+      "iconType": "fire"
+    },
+    {
+      "id": "last-bell",
+      "date": "2024.11.25",
+      "eraTitle": "Last Bell",
+      "eraSubtitle": "Last Festival",
+      "position": { "x": 1260, "y": 700 },
+      "connectedTo": ["summer-beat", "try-with-us"],
+      "regionId": "blue-flower-field",
+      "iconType": "bell"
+    },
+    {
+      "id": "try-with-us",
+      "date": "2025.4.21",
+      "eraTitle": "Try With Us",
+      "eraSubtitle": "Countdown!",
+      "position": { "x": 1680, "y": 390 },
+      "connectedTo": ["last-bell", "hajimemashic"],
+      "regionId": "graduation-hall",
+      "iconType": "heart"
+    },
+    {
+      "id": "hajimemashic",
+      "date": "2025.6.29",
+      "eraTitle": "はじめまして",
+      "eraSubtitle": "TITLE",
+      "position": { "x": 2060, "y": 640 },
+      "connectedTo": ["try-with-us", "play-hard"],
+      "regionId": "music-forest",
+      "iconType": "music"
+    },
+    {
+      "id": "play-hard",
+      "date": "2025.10.13",
+      "eraTitle": "Play Hard",
+      "eraSubtitle": "Overdrive",
+      "position": { "x": 2420, "y": 380 },
+      "connectedTo": ["hajimemashic", "no-tragedy"],
+      "regionId": "glowing-lake",
+      "iconType": "fire"
+    },
+    {
+      "id": "no-tragedy",
+      "date": "2026.4.27",
+      "eraTitle": "No Tragedy",
+      "eraSubtitle": "You, You",
+      "position": { "x": 2920, "y": 700 },
+      "connectedTo": ["play-hard"],
+      "regionId": "first-snow-street",
+      "iconType": "crystal"
+    }
+  ],
+  "paths": [
+    {
+      "from": "sparkling-blue",
+      "to": "summer-beat",
+      "pathData": "M 300 730 Q 530 540, 760 410"
+    },
+    {
+      "from": "summer-beat",
+      "to": "last-bell",
+      "pathData": "M 820 390 Q 1020 520, 1230 710"
+    },
+    {
+      "from": "last-bell",
+      "to": "try-with-us",
+      "pathData": "M 1290 720 Q 1470 520, 1650 380"
+    },
+    {
+      "from": "try-with-us",
+      "to": "hajimemashic",
+      "pathData": "M 1710 370 Q 1870 460, 2030 650"
+    },
+    {
+      "from": "hajimemashic",
+      "to": "play-hard",
+      "pathData": "M 2090 665 Q 2240 500, 2390 380"
+    },
+    {
+      "from": "play-hard",
+      "to": "no-tragedy",
+      "pathData": "M 2450 420 Q 2670 540, 2890 680"
+    }
+  ]
+}

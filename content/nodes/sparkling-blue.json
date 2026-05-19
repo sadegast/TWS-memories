@@ -1,0 +1,57 @@
+{
+  "id": "sparkling-blue",
+  "date": "2024.1.22",
+  "eraTitle": "Sparkling Blue",
+  "eraSubtitle": "Plot Twist",
+  "coverImage": "/images/nodes/sparkling-blue/cover.jpg",
+  "description": "出道的那一天。\n\n当《Plot Twist》的第一个音符响起，一切都在那一刻改变了。那片闪闪发光的蓝色灯海，42颗心脏同频跳动的声音。\n\n我们在练习室里已经把这一刻练习了一千遍，但没有什么能让人准备好面对真正的舞台。\n\n第一次站在镜头前，第一次听见粉丝呼喊我们的名字。那些笨拙的紧张、颤抖的声音、汗湿的手心——都是我们最珍贵的第一次。",
+  "photos": [
+    {
+      "src": "/images/nodes/sparkling-blue/photo-01.jpg",
+      "alt": "出道舞台表演",
+      "width": 800,
+      "height": 600,
+      "caption": "第一个舞台 — M Countdown",
+      "rotation": -2
+    },
+    {
+      "src": "/images/nodes/sparkling-blue/photo-02.jpg",
+      "alt": "后台的成员们",
+      "width": 600,
+      "height": 800,
+      "caption": "后台紧张的笑容",
+      "rotation": 1.5
+    },
+    {
+      "src": "/images/nodes/sparkling-blue/photo-03.jpg",
+      "alt": "出道Showcase",
+      "width": 800,
+      "height": 600,
+      "caption": "我们的第一次见面",
+      "rotation": -1
+    }
+  ],
+  "memories": [
+    {
+      "icon": "star",
+      "text": "第一次音乐节目一位 — 我们哭得停不下来",
+      "date": "2024.2.3"
+    },
+    {
+      "icon": "heart",
+      "text": "SHINYU的感言让整个房间里的人都红了眼眶",
+      "date": "2024.2.3"
+    },
+    {
+      "icon": "sparkles",
+      "text": "DOHOON终于结束了三个月的节食，吃到了心心念念的拉面",
+      "date": "2024.2.10"
+    },
+    {
+      "icon": "music",
+      "text": "第一次完整地表演完出道曲，后台拥抱了很久",
+      "date": "2024.1.22"
+    }
+  ],
+  "colorAccent": "#B4D8F0"
+}

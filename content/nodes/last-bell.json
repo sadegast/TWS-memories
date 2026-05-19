@@ -1,0 +1,52 @@
+{
+  "id": "last-bell",
+  "date": "2024.11.25",
+  "eraTitle": "Last Bell",
+  "eraSubtitle": "Last Festival",
+  "coverImage": "/images/nodes/last-bell/cover.jpg",
+  "description": "毕业钟声响起的季节。\n\n《Last Festival》是关于告别和约定的歌。不是伤感的离别，而是带着感谢和期待的再见。\n\n这一年从冬天开始，到冬天即将结束。我们经历了太多第一次：第一次音乐放送、第一次获奖、第一次演唱会、第一次巡回……\n\n在蓝色花田里，我们许下了继续一起成长的约定。最后一响钟声不是结束，而是新旅程的预告。",
+  "photos": [
+    {
+      "src": "/images/nodes/last-bell/photo-01.jpg",
+      "alt": "Last Festival舞台",
+      "width": 800,
+      "height": 600,
+      "caption": "最后的庆典",
+      "rotation": -1
+    },
+    {
+      "src": "/images/nodes/last-bell/photo-02.jpg",
+      "alt": "花田拍摄",
+      "width": 600,
+      "height": 800,
+      "caption": "蓝色花田的记忆",
+      "rotation": 2.5
+    },
+    {
+      "src": "/images/nodes/last-bell/photo-03.jpg",
+      "alt": "成员们合照",
+      "width": 800,
+      "height": 600,
+      "caption": "一年的终点，新的起点",
+      "rotation": -0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "bell",
+      "text": "HANJIN在花田里说：'感觉这一年像一场梦'",
+      "date": "2024.11.20"
+    },
+    {
+      "icon": "heart",
+      "text": "粉丝们准备的'一年回顾'手写信，我们每个人都哭了",
+      "date": "2024.11.25"
+    },
+    {
+      "icon": "sparkles",
+      "text": "JIHOON说这是他第一次觉得'冬天也可以是温暖的'",
+      "date": "2024.11.25"
+    }
+  ],
+  "colorAccent": "#D4E5F7"
+}

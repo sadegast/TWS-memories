@@ -1,0 +1,57 @@
+{
+  "id": "no-tragedy",
+  "date": "2026.4.27",
+  "eraTitle": "No Tragedy",
+  "eraSubtitle": "You, You",
+  "coverImage": "/images/nodes/no-tragedy/cover.jpg",
+  "description": "我们不会让这个故事变成悲剧。\n\n《You, You》是关于承诺的歌。不是对着天空喊的空话，而是对着彼此的眼睛认真说出的约定。\n\n走到这里，我们已经一起经历了太多。初雪街道上，脚印绵延成一条长长的路——那是我们一步一步走过来的证明。\n\n'You, You'——不是因为孤单才呼唤你，而是因为你本身就是答案。\n\n无论未来还有什么第一次在等待，这件事不会变：我们会继续在一起，我们会继续唱歌。我们的故事里，没有悲剧——只有未完待续的、闪闪发光的日常。",
+  "photos": [
+    {
+      "src": "/images/nodes/no-tragedy/photo-01.jpg",
+      "alt": "初雪街道",
+      "width": 800,
+      "height": 600,
+      "caption": "初雪的约定",
+      "rotation": -2
+    },
+    {
+      "src": "/images/nodes/no-tragedy/photo-02.jpg",
+      "alt": "You, You舞台",
+      "width": 600,
+      "height": 800,
+      "caption": "最温柔的舞台",
+      "rotation": 1
+    },
+    {
+      "src": "/images/nodes/no-tragedy/photo-03.jpg",
+      "alt": "一起走的路",
+      "width": 800,
+      "height": 600,
+      "caption": "我们走过的路",
+      "rotation": -0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "snowflake",
+      "text": "MV拍摄那天真的下雪了——像是命运的安排",
+      "date": "2026.4.10"
+    },
+    {
+      "icon": "heart",
+      "text": "HANJIN说：'感觉我们真的在一起很久很久了'",
+      "date": "2026.4.27"
+    },
+    {
+      "icon": "infinity",
+      "text": "粉丝们从世界各地飞来，只为了说一句'我会一直在这里'",
+      "date": "2026.4.27"
+    },
+    {
+      "icon": "star",
+      "text": "这不是终点，而是另一段旅程的开始",
+      "date": "2026.4.27"
+    }
+  ],
+  "colorAccent": "#D5F0E0"
+}

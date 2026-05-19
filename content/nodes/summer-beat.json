@@ -1,0 +1,52 @@
+{
+  "id": "summer-beat",
+  "date": "2024.6.24",
+  "eraTitle": "Summer Beat",
+  "eraSubtitle": "If I'm S, Can You Be My N?",
+  "coverImage": "/images/nodes/summer-beat/cover.jpg",
+  "description": "夏天的汗水，夏夜的海风。\n\n《If I'm S, Can You Be My N?》是我们关于青春最热烈的告白。不是完美的公式，而是藏在歌词里的真心话。\n\n那个夏天，我们第一次在海边拍摄MV。海浪声、笑声、打闹声混在一起，阳光好得不像话。即使晒伤了皮肤，即使熬夜拍摄，所有人的眼睛里都有光。\n\n如果我是S，你愿意成为我的N吗？这是一个关于互相补充、关于彼此温暖的问题。",
+  "photos": [
+    {
+      "src": "/images/nodes/summer-beat/photo-01.jpg",
+      "alt": "海边MV拍摄",
+      "width": 800,
+      "height": 600,
+      "caption": "夏日海边的回忆",
+      "rotation": 2
+    },
+    {
+      "src": "/images/nodes/summer-beat/photo-02.jpg",
+      "alt": "Showcase舞台",
+      "width": 600,
+      "height": 800,
+      "caption": "夏天的Showcase",
+      "rotation": -1.5
+    },
+    {
+      "src": "/images/nodes/summer-beat/photo-03.jpg",
+      "alt": "成员们玩耍",
+      "width": 800,
+      "height": 600,
+      "caption": "拍摄间隙的快乐时光",
+      "rotation": 0.5
+    }
+  ],
+  "memories": [
+    {
+      "icon": "ocean",
+      "text": "第一次在海边看到日出 — 那是我们见过最美的天空",
+      "date": "2024.6.10"
+    },
+    {
+      "icon": "smile",
+      "text": "YOUNGJAE把防晒霜涂成了艺妓脸，大家都笑疯了",
+      "date": "2024.6.10"
+    },
+    {
+      "icon": "star",
+      "text": "夏日回归舞台，粉丝们的应援声比海浪还大",
+      "date": "2024.6.24"
+    }
+  ],
+  "colorAccent": "#FADADD"
+}
